@@ -1,0 +1,41 @@
+{
+    "atharvapaw123@gmail.com": {
+        "password": "887e7497494d4498d1c09046da7483d0ef2c2b0c2d6c888895dc564d48a38762",
+        "profile": {
+            "name": "Atharva Pawar",
+            "contact": "7447340010",
+            "location": "Satara",
+            "summary": "Software Developer",
+            "work_experience": "Freelancer ",
+            "education": "Btech in CSE",
+            "skills": "Python , LLM models AI Ml",
+            "hobbies": "Crafting , Research and development  "
+        }
+    },
+    "prakashpawar7387@gmail.com": {
+        "password": "39e94309693abf42a3b469fbb064c956565a0b98ea668a31d920a66f53f7c89a",
+        "profile": {
+            "name": "",
+            "contact": "",
+            "location": "",
+            "summary": "",
+            "work_experience": "",
+            "education": "",
+            "skills": "",
+            "hobbies": ""
+        }
+    },
+    "sam@gmail.com": {
+        "password": "39e94309693abf42a3b469fbb064c956565a0b98ea668a31d920a66f53f7c89a",
+        "profile": {
+            "name": "",
+            "contact": "",
+            "location": "",
+            "summary": "",
+            "work_experience": "",
+            "education": "",
+            "skills": "",
+            "hobbies": ""
+        }
+    }
+}

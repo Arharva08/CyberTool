@@ -1,0 +1,40 @@
+st.sidebar.markdown("""
+            <style>
+                .sidebar-title {
+                    color: #3498db;
+                    font-size: 24px;
+                    font-weight: bold;
+                    padding: 10px;
+                    text-align: center;
+                }
+                .sidebar-header {
+                    color: #2c3e50;
+                    font-size: 18px;
+                    font-weight: bold;
+                    padding-top: 20px;
+                    padding-bottom: 10px;
+                }
+                .sidebar-button {
+                    background-color: #3498db;
+                    color: white;
+                    font-size: 16px;
+                    font-weight: bold;
+                    width: 100%;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                    border: none;
+                    cursor: pointer;
+                    transition: background-color 0.3s;
+                }
+                .sidebar-button:hover {
+                    background-color: #2980b9;
+                }
+                .sidebar-info {
+                    color: #7f8c8d;
+                    font-size: 14px;
+                    margin-top: 20px;
+                }
+            </style>
+            <div class='sidebar-title'>Cybersecurity Protection Tool</div>
+        """, unsafe_allow_html=True)

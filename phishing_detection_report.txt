@@ -1,0 +1,14 @@
+Phishing Detection Report
+==================================================
+Generated on: 2024-12-09 15:14:01
+
+Detection History:
+1. Time: 2024-12-09 15:05:09
+   Input: Rs 15,900 earned using proven strategies Take control of your investments and start growing today https://tinyurl.com/VNBw12 
+
+   Result: Suspicious
+
+2. Time: 2024-12-09 15:13:26
+   Input: Rs 15,900 earned using proven strategies Take control of your investments and start growing today https://tinyurl.com/VNBw12 
+   Result: Suspicious
+
